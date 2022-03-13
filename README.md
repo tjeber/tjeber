@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tjeber
+- 💞️ I'm a Computer Science student at University of Canterbury.
+- 👀 I'm here to learn and get experience within the IT world.
+- 🌱 I’m currently learning python basics.
